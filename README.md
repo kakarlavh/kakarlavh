@@ -9,8 +9,6 @@
 - Lean Six Sigma Process Improvement  
 - Agile Project Management & Cross-Functional Leadership  
 
----
-
 ### 🚀 Recent 2025 Projects
 Hemanth has recently led and delivered diverse, innovative projects across multiple industries, driving measurable value through AI, automation, and scalable enterprise platforms:
 
@@ -20,8 +18,6 @@ Hemanth has recently led and delivered diverse, innovative projects across multi
 - **Sports Facility Website** – Delivered a modern, mobile-responsive site with AI-powered cricket nets, live scoring, and court booking.  
 - **AI-Driven Training Portal** – Created a personalized e-learning platform for AI and tech-related courses with progress tracking.  
 - **Recycling Plant Development** – Contributed to sustainable industrial solutions for wood and plastic waste recycling.  
-
----
 
 ### 🏥 Previous Healthcare Project Achievements
 With a strong healthcare background, Hemanth has executed end-to-end RCM, HIM, and clinical workflow improvement projects, including:  
@@ -37,8 +33,6 @@ With a strong healthcare background, Hemanth has executed end-to-end RCM, HIM, a
 - **Patient Scheduling Systems** – Designed and optimized systems to improve accessibility and reduce no-shows.  
 - **Denial Management** – Implemented tracking and resolution processes, improving recovery rates.  
 - **EDI Workflow Automation with AI** – Developed and deployed an AI-driven EDI 837/835 processing system to automate claims submission, validate data accuracy, detect potential denials, and reconcile remittance advice in real-time, reducing manual intervention by 60% and accelerating payment cycles.  
-
----
 
 🌱 **Currently Learning**  
 - AI in Healthcare  
