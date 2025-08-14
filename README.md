@@ -1,35 +1,58 @@
 ## Hi there 👋  
 
-**Hemanth Kakarla, PMP, PMI-ACP, LSSGB, LSBB** is a seasoned Healthcare Project Manager and **RCM & HIM Transformation Leader** with over 12 years of experience driving enterprise-wide healthcare transformations.  
+**Hemanth Kakarla, PMP®, PMI-ACP®, LSSGB, LSSBB, CCS, MS-HIT** is a Multi-Domain Project Manager with 12+ years of global leadership experience across Healthcare, IT, and cross-industry digital transformation initiatives in the U.S., India, and the Middle East. Certified in **PMP®, PMI-ACP®**, and **Lean Six Sigma**, he combines strategic vision with operational expertise to deliver measurable outcomes in complex, multi-site environments.
 
-💼 **What He Does**  
-- Leads **Revenue Cycle Management (RCM)**, **Health Information Management (HIM)**, **Clinical Documentation Improvement (CDI)**, and **large-scale EMR/EHR implementations** (Epic, eCW).  
-- Orchestrates cross-functional teams to integrate **clinical, financial, and IT systems** for measurable operational, financial, and compliance improvements.  
-- Applies **Lean Six Sigma** and **Agile Project Management** to optimize workflows, improve reimbursement accuracy, and enhance patient care delivery.  
+💼 **Core Expertise**  
+- Digital Transformation & AI Integration  
+- Enterprise Systems Implementation (Epic, eCW, Custom Solutions)  
+- Revenue Cycle Management (RCM) Optimization & Compliance  
+- Lean Six Sigma Process Improvement  
+- Agile Project Management & Cross-Functional Leadership  
 
-📈 **Proven Results**  
-- Achieved a 25% **revenue uplift** through RCM optimization.  
-- Reduced cycle times by 30% using Lean Six Sigma methodologies.  
-- Delivered significant improvements in compliance, documentation quality, and denial prevention.  
+---
+
+### 🚀 Recent 2025 Projects
+Hemanth has recently led and delivered diverse, innovative projects across multiple industries, driving measurable value through AI, automation, and scalable enterprise platforms:
+
+- **Enterprise-Level Subscription Website** – Developed a multi-module platform covering Accounts, HR, Employees, Employers, and Vendor management.  
+- **AI-Powered Ticketing System** – Integrated advanced AI for automated issue classification and optimized support workflows.  
+- **AI-Based Resume Solutions** – Built two intelligent tools for role-tailored resume building and AI-powered resume-to-job matching.  
+- **Sports Facility Website** – Delivered a modern, mobile-responsive site with AI-powered cricket nets, live scoring, and court booking.  
+- **AI-Driven Training Portal** – Created a personalized e-learning platform for AI and tech-related courses with progress tracking.  
+- **Recycling Plant Development** – Contributed to sustainable industrial solutions for wood and plastic waste recycling.  
+
+---
+
+### 🏥 Previous Healthcare Project Achievements
+With a strong healthcare background, Hemanth has executed end-to-end RCM, HIM, and clinical workflow improvement projects, including:  
+
+- **RCM Optimization** – Enhanced billing workflows and reduced claim rejections, driving revenue gains.  
+- **Regulatory Compliance** – Ensured adherence to HIPAA, CMS, and other industry regulations.  
+- **Charge Master Mapping & Integration** – Led successful service-to-charge mapping for billing accuracy.  
+- **Medical Coding Module Development** – Built ICD-10 and CPT-compliant coding solutions.  
+- **Hospital Invoice Validation** – Implemented validation controls for improved audit readiness.  
+- **ICD-10 Implementation** – Oversaw system transitions and staff enablement for ICD-10 adoption.  
+- **Clinical Documentation Improvement (CDI)** – Improved documentation quality, boosting reimbursement accuracy.  
+- **Authorization Process Management** – Achieved 98% accuracy in pre/post-authorization workflows.  
+- **Patient Scheduling Systems** – Designed and optimized systems to improve accessibility and reduce no-shows.  
+- **Denial Management** – Implemented tracking and resolution processes, improving recovery rates.  
+- **EDI Workflow Automation with AI** – Developed and deployed an AI-driven EDI 837/835 processing system to automate claims submission, validate data accuracy, detect potential denials, and reconcile remittance advice in real-time, reducing manual intervention by 60% and accelerating payment cycles.  
+
+---
 
 🌱 **Currently Learning**  
-- Artificial Intelligence in Healthcare  
+- AI in Healthcare  
 - Digital Health Innovations  
-- Cloud-based Healthcare Solutions  
+- Cloud-Based Healthcare Solutions  
 
-👯 **Looking to Collaborate On**  
-- AI-driven Healthcare Analytics  
-- Digital Transformation in Healthcare  
-- Revenue Cycle Optimization Platforms  
+💬 **Ask Him About**  
+- RCM Transformation Strategies  
+- EMR/EHR Implementation Best Practices  
+- AI-Powered Enterprise Solutions  
 
-💬 **Expertise**  
-- RCM transformation strategies  
-- EMR/EHR implementation best practices  
-- Denial prevention & compliance improvement  
-
-📫 **Connect With Him**  
+📫 **Connect with Hemanth**  
 - **LinkedIn:** [linkedin.com/in/thanmai-kalahasti](https://www.linkedin.com/in/thanmai-kalahasti)  
 - **Email:** thanmaikala7@gmail.com  
 
-⚡ **Fun fact**  
+⚡ **Fun Fact**  
 He approaches **RCM bottlenecks** like Sudoku puzzles – ensuring every piece fits perfectly for the big picture to work.  
