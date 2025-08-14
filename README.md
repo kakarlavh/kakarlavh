@@ -1,4 +1,4 @@
-Hi there 👋
+Hi 👋
 I’m Hemanth Kakarla, PMP, PMI-ACP, LSSGB, LSBB – a Healthcare Project Manager and RCM & HIM Transformation Leader with 12+ years of experience driving enterprise-wide healthcare transformations.
 💼 What I Do
 •	Lead Revenue Cycle Management (RCM), Health Information Management (HIM), Clinical Documentation Improvement (CDI), and large-scale EMR/EHR implementations (Epic, eCW).
