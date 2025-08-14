@@ -51,8 +51,5 @@ With a strong healthcare background, Hemanth has executed end-to-end RCM, HIM, a
 - AI-Powered Enterprise Solutions  
 
 📫 **Connect with Hemanth**  
-- **LinkedIn:** [linkedin.com/in/thanmai-kalahasti](https://www.linkedin.com/in/thanmai-kalahasti)  
-- **Email:** thanmaikala7@gmail.com  
-
-⚡ **Fun Fact**  
-He approaches **RCM bottlenecks** like Sudoku puzzles – ensuring every piece fits perfectly for the big picture to work.  
+- **LinkedIn:** https://www.linkedin.com/in/hemanth-k-15000555/
+- **Email:** venkatakakarla56@gmail.com  
