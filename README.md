@@ -2,10 +2,6 @@
 
 **Clinical IT Project Manager | Epic Revenue Cycle Program Lead | Healthcare Transformation Leader**  
 
-📍 Haymarket, VA, USA  
-📧 venkatakakarla56@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hemanth-k-15000555/)  
-
 ---
 
 ## 🚀 About Me  
