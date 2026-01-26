@@ -1,49 +1,137 @@
-## Hi there 👋  
+# 👋 Hi, I'm Venkata Hemanth Kakarla  
 
-**Hemanth Kakarla, PMP®, PMI-ACP®, LSSGB, LSSBB, CCS, MS-HIT** is a Multi-Domain Project Manager with 12+ years of global leadership experience across Healthcare, IT, and cross-industry digital transformation initiatives in the U.S., India, and the Middle East. Certified in **PMP®, PMI-ACP®**, and **Lean Six Sigma**, he combines strategic vision with operational expertise to deliver measurable outcomes in complex, multi-site environments.
+**Clinical IT Project Manager | Epic Revenue Cycle Program Lead | Healthcare Transformation Leader**  
 
-💼 **Core Expertise**  
-- Digital Transformation & AI Integration  
-- Enterprise Systems Implementation (Epic, eCW, Custom Solutions)  
-- Revenue Cycle Management (RCM) Optimization & Compliance  
+📍 Haymarket, VA, USA  
+📧 venkatakakarla56@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/hemanth-k-15000555/)  
+
+---
+
+## 🚀 About Me  
+
+I am an **Enterprise Clinical IT Project Manager** with **12+ years of global experience** delivering large-scale **EMR/EHR, Epic Revenue Cycle, HIM, and Clinical Systems transformations** across the United States, India, and the Middle East.  
+
+Certified in **PMP®, PMI-ACP®, Lean Six Sigma Black Belt, CCS, and HIPAA**, I specialize in leading **revenue-critical Epic RCM programs, healthcare market implementations, and hospital-wide revenue cycle transformations** that improve financial performance, compliance, and patient care delivery.  
+
+I bridge **clinical workflows, revenue cycle operations, and enterprise IT**, helping healthcare organizations scale safely, remain compliant, and achieve measurable outcomes.
+
+---
+
+## 💼 Core Expertise  
+
+- Enterprise Clinical IT & Epic Revenue Cycle Programs  
+- EMR / EHR Implementations & Interoperability (Epic, eClinicalWorks, HL7, FHIR)  
+- Revenue Cycle Optimization & Revenue Integrity  
+- Clinical Documentation Improvement (CDI)  
+- Charge Description Master (CDM) Optimization  
+- Medicaid & Medicare Market Implementations  
+- Denial Management & Clean Claim Optimization  
+- Agile, Waterfall & Hybrid Delivery Models  
 - Lean Six Sigma Process Improvement  
-- Agile Project Management & Cross-Functional Leadership  
+- HIPAA, CMS, HRSA & Regulatory Compliance  
 
-### 🚀 Recent 2025 Projects
-Hemanth has recently led and delivered diverse, innovative projects across multiple industries, driving measurable value through AI, automation, and scalable enterprise platforms:
+---
 
-- **Enterprise-Level Subscription Website** – Developed a multi-module platform covering Accounts, HR, Employees, Employers, and Vendor management.  
-- **AI-Powered Ticketing System** – Integrated advanced AI for automated issue classification and optimized support workflows.  
-- **AI-Based Resume Solutions** – Built two intelligent tools for role-tailored resume building and AI-powered resume-to-job matching.  
-- **Sports Facility Website** – Delivered a modern, mobile-responsive site with AI-powered cricket nets, live scoring, and court booking.  
-- **AI-Driven Training Portal** – Created a personalized e-learning platform for AI and tech-related courses with progress tracking.  
-- **Recycling Plant Development** – Contributed to sustainable industrial solutions for wood and plastic waste recycling.  
+## 🏥 Current Role  
 
-### 🏥 Previous Healthcare Project Achievements
-With a strong healthcare background, Hemanth has executed end-to-end RCM, HIM, and clinical workflow improvement projects, including:  
+### Clinical IT Project Manager – Enterprise Epic RCM  
+**UnitedHealth Group (UHG)** | Jan 2025 – Present | Remote  
 
-- **RCM Optimization** – Enhanced billing workflows and reduced claim rejections, driving revenue gains.  
-- **Regulatory Compliance** – Ensured adherence to HIPAA, CMS, and other industry regulations.  
-- **Charge Master Mapping & Integration** – Led successful service-to-charge mapping for billing accuracy.  
-- **Medical Coding Module Development** – Built ICD-10 and CPT-compliant coding solutions.  
-- **Hospital Invoice Validation** – Implemented validation controls for improved audit readiness.  
-- **ICD-10 Implementation** – Oversaw system transitions and staff enablement for ICD-10 adoption.  
-- **Clinical Documentation Improvement (CDI)** – Improved documentation quality, boosting reimbursement accuracy.  
-- **Authorization Process Management** – Achieved 98% accuracy in pre/post-authorization workflows.  
-- **Patient Scheduling Systems** – Designed and optimized systems to improve accessibility and reduce no-shows.  
-- **Denial Management** – Implemented tracking and resolution processes, improving recovery rates.  
-- **EDI Workflow Automation with AI** – Developed and deployed an AI-driven EDI 837/835 processing system to automate claims submission, validate data accuracy, detect potential denials, and reconcile remittance advice in real-time, reducing manual intervention by 60% and accelerating payment cycles.  
+- Lead enterprise Epic Revenue Cycle and automation programs across **48+ ambulatory sites**, **1,100+ providers**, and **2.6M+ annual encounters**  
+- Improved clean claim rate from **88% → 96%**  
+- Reduced initial denials by **28%**  
+- Accelerated coding & charge posting by **35%**  
+- Reduced A/R by **12 days**  
+- Enabled **38% productivity improvement** via RCM automation  
+- Delivered **$8.5M+ annual revenue recovery**  
+- Lead secure integrations using **HL7, FHIR, APIs** with enterprise-grade compliance  
 
-🌱 **Currently Learning**  
-- AI in Healthcare  
-- Digital Health Innovations  
-- Cloud-Based Healthcare Solutions  
+---
 
-💬 **Ask Him About**  
-- RCM Transformation Strategies  
-- EMR/EHR Implementation Best Practices  
-- AI-Powered Enterprise Solutions  
+## 🏆 Key Healthcare Achievements  
 
-📫 **Connect with Hemanth**  
-- **LinkedIn:** https://www.linkedin.com/in/hemanth-k-15000555/
-- **Email:** venkatakakarla56@gmail.com  
+### Revenue Cycle & Financial Performance  
+- 25% revenue growth across multi-year RCM programs  
+- 20%+ denial reduction through Charge Router optimization  
+- 30% cycle-time reduction and 15%+ productivity gains  
+- Stabilized **$4.5M monthly revenue** via CDM optimization  
+
+### Clinical & Compliance Excellence  
+- Led enterprise **ICD-10 implementations**  
+- Delivered hospital-wide **CDI programs** improving documentation accuracy by **15–20%**  
+- Implemented authorization governance achieving **98% accuracy**  
+- Built audit-ready workflows aligned with **HIPAA, CMS, HRSA, AMA**  
+
+### Enterprise Market Implementations (Humana)  
+- Led **6 Medicaid & Medicare state market launches**  
+- Supported **780,000+ members** and **6,500+ providers**  
+- Reduced stabilization time by **35%**  
+- Avoided **$4.2M in regulatory penalties** through readiness leadership  
+
+---
+
+## 🧠 Technical & Delivery Stack  
+
+**Clinical & RCM Platforms**  
+- Epic (Professional Billing, PFS, Claims, Charge Router)  
+- eClinicalWorks  
+- Custom EMR Platforms  
+
+**Interoperability & Data**  
+- HL7, FHIR, APIs  
+- Clearinghouses, Payer Platforms  
+- SQL, Data Migration & Reconciliation  
+
+**Analytics & Reporting**  
+- Epic Reporting  
+- Tableau  
+- Power BI  
+
+**Project & Governance Tools**  
+- Jira, Confluence, Draw.io, Smartsheet  
+- RAID Management, Steering Committees, Command Centers  
+
+---
+
+## 📜 Certifications  
+
+- PMP® – Project Management Professional  
+- PMI-ACP® – Agile Certified Practitioner  
+- Lean Six Sigma Black Belt  
+- Lean Six Sigma Green Belt  
+- CCS – Certified Coding Specialist (AHIMA)  
+- HIPAA Certified  
+
+---
+
+## 🎓 Education  
+
+- **M.S. in Medical Informatics** – Sacred Heart University, CT (2023)  
+- **Bachelor of Pharmacy** – Malineni Lakshmaiah College of Pharmacy, India (2011)  
+
+---
+
+## 🌱 Current Focus  
+
+- Epic Revenue Cycle Automation  
+- Interoperability & API-Driven Healthcare Platforms  
+- Revenue Integrity & Predictive Denial Prevention  
+- Digital Health & Clinical Analytics  
+
+---
+
+## 💬 Let’s Connect  
+
+I’m always interested in:  
+- Enterprise Epic RCM Programs  
+- Clinical IT & Healthcare Transformation  
+- Revenue Cycle Automation  
+- Interoperability & Digital Health  
+
+📧 **Email:** venkatakakarla56@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/hemanth-k-15000555](https://www.linkedin.com/in/hemanth-k-15000555/)  
+
+---
+
+⭐ *“Transforming clinical workflows into scalable, compliant, and revenue-optimized digital healthcare systems.”*  
