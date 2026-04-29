@@ -46,7 +46,7 @@ Directing enterprise-scale cloud-based healthcare SaaS delivery programs across 
 - **42% improvement** in provider onboarding throughput through EDI 834 automation  
 - Stabilized **$4.5M monthly revenue** via hospital-wide CDM overhaul  
 
-### Enterprise Market Implementations (Humana – Healthy Horizons)  
+### Enterprise Market Implementations  
 - Led **6 concurrent Medicaid & Medicare state market EHR launches**  
 - Supported **780,000+ members** and **6,500+ providers** via Epic EHR and Epic Payer Platform  
 - Achieved **>95% first-pass claim acceptance** and **>98% ERA auto-posting rates**  
