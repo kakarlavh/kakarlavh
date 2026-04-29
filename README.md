@@ -9,9 +9,9 @@
 
 I am a **Healthcare IT Project / Program Manager** with **12+ years of experience** delivering enterprise-scale **Epic / Healthcare Revenue Cycle implementations and RCM transformation initiatives** across health systems and payer organizations in the **United States, India, and the Middle East**.  
 
-Certified in **PMP®, PMI-ACP®, Lean Six Sigma Black Belt, CCS, and HIPAA**, I specialize in **Professional Billing (PB), Hospital Billing (HB), Claims (EDI 837/835), and Patient Financial Services (PFS)** — with a strong focus on optimizing billing workflows, reducing denials, and improving revenue integrity.  
+Certified in **PMP®, PMI-ACP®, Lean Six Sigma Black Belt, CCS, and HIPAA**, I specialize in **Professional Billing (PB), Hospital Billing (HB), Claims (EDI 837/835), and Patient Financial Services (PFS)** with a strong focus on optimizing billing workflows, reducing denials, and improving revenue integrity.  
 
-I bridge **clinical workflows, revenue cycle operations, and enterprise IT**, combining deep clinical coding and compliance knowledge with disciplined end-to-end project delivery — from initiation and planning through go-live and post-production stabilization.
+I bridge **clinical workflows, revenue cycle operations, and enterprise IT**, combining deep clinical coding and compliance knowledge with disciplined end-to-end project delivery from initiation and planning through go-live and post-production stabilization.
 
 ---
 
