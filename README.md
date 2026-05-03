@@ -121,7 +121,7 @@ I'm always interested in collaborating on:
 - Medicaid/Medicare Market Implementations  
 
 📧 **Email:** venkatakakarla56@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/hemanth-k-15000555](https://www.linkedin.com/in/hemanth-k-15000555/)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/vhkakarla/](https://www.linkedin.com/in/vhkakarla/)  
 
 ---
 
